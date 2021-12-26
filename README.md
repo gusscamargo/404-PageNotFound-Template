@@ -5,4 +5,4 @@ Backup de um Template de Error 404 com autoria de [JSON.girlify](https://codepen
 
 ## Como usar:
 1. Clone o repositorio
-2. Abre index.html
+2. Abra index.html
